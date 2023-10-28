@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Some offers ar avilable for both Dasara and  Diwlai</h1>   
+         <h1>Some offers</h1>   
 	 
 
     </section>    
