@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>***Offers are avilable*****</h1>   
+         <h1>***Offers are avilable for Diwlai*****</h1>   
 	 
 
     </section>    
