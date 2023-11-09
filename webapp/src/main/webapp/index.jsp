@@ -3,7 +3,7 @@ div id="header"></div>
 <div class="stuff">
   <br><br>
   <h1>RESUME</h1>
-  <h2>SNEHA VARMA</h2>
+  <h2>SNEHA LATHA</h2>
   <hr />
   <br>
   <p class="head">Interests</p>
